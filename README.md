@@ -1,4 +1,4 @@
-# 🤖 Chatbot FAQ - Jumia Sénégal (Gradio)
+# 🤖 Chatbot FAQ - Jumia Sénégal (Gradio) -App lien : https://chatbot-faq-tkmb.onrender.com
 
 Ce projet est un **chatbot simple** qui permet aux utilisateurs de poser des **questions fréquentes** concernant les paiements sur Jumia Sénégal. Il utilise **Gradio** pour offrir une interface conviviale et est déployable en ligne via **Render**.
 

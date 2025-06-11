@@ -14,4 +14,5 @@ iface = gr.Interface(
     description="Posez une question liée aux paiements Jumia (ex : 'Quels sont les moyens de paiement ?')"
 )
 
-iface.launch()
+iface.launch(server_name="0.0.0.0", server_port=10000)
+
